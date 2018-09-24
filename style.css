@@ -5930,7 +5930,8 @@ a,
 ul li a,
 ol li a,
 ul li a:hover,
-ol li a:hover { color: #004890; }
+ol li a:hover,
+.widget_contact ul li a:hover { color: #004890; }
 input[type="reset"],
 input[type="button"],
 input[type="submit"] { background-color: #004890; }
